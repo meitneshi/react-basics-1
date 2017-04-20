@@ -4,10 +4,9 @@ import './footer.css';
 
 class Footer extends Component {
   render() {
-    console.log(logo)
     return (
       <div className="footer">
-        Created by create-react-app. Designed by M@xime. Powered by React <img src="../../assets/images/logo.svg"/>
+        Created by create-react-app. Designed by <a href="https://github.com/meitneshi/">M@xime</a>. Powered by React <img className="footer-logo" src={logo}/>
       </div>
     );
   }
