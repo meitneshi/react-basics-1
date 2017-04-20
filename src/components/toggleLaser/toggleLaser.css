@@ -1,0 +1,20 @@
+.laser {
+  position:relative;
+  left:190px;
+}
+
+.laserState-on {
+  display: block;
+  height:25px;
+  width:25px;
+  border-radius: 50%;
+  background-color: green;
+}
+
+.laserState-off {
+  display: block;
+  height:25px;
+  width:25px;
+  border-radius: 50%;
+  background-color: red;
+}

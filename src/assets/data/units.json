@@ -1,0 +1,30 @@
+[
+  {
+    "name": "footman",
+    "displayName":"Footmans",
+    "code": "FT",
+    "availableNumber" : 2000000,
+    "unitCost": 1000
+  },
+  {
+    "name": "tank",
+    "displayName":"Tanks",
+    "code": "TK",
+    "availableNumber" : 15000,
+    "unitCost": 100000
+  },
+  {
+    "name": "warplane",
+    "displayName":"Warplanes",
+    "code": "WP",
+    "availableNumber" : 5000,
+    "unitCost": 2100000
+  },
+  {
+    "name": "warship",
+    "displayName":"Warships",
+    "code": "WS",
+    "availableNumber" : 2500,
+    "unitCost": 10250000
+  }
+]
